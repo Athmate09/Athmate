@@ -1,3 +1,2 @@
 # Athmate Website
-
-Follow setup instructions to deploy.
+Professional athlete brand store front.
